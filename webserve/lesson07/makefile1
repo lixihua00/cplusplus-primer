@@ -1,0 +1,2 @@
+app:main.c add.c mult.c sub.c sub.c
+	gcc *.c -o app
